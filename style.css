@@ -1,4 +1,10 @@
 h1{
-	color:blue;
+	color:#03d7fc;
 	font-size: 80px;
+}
+h2{
+	color:#1feda8;
+}
+body{
+	background-color: #590b55;
 }
